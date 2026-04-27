@@ -16,7 +16,7 @@ This project is an Insurance Dashboard created using Power BI to analyze insuran
 - Data Visualization
 
 ## File Included
-- `Insurance Dashboard.pbix` – Main Power BI dashboard file
+-  Main Power BI dashboard file
 
 ## How to Use
 1. Download this repository.
